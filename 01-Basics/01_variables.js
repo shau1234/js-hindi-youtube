@@ -1,3 +1,5 @@
+// JavaScript is a dynamically typed language, meaning that type checking happens at runtime, rather than during compilation
+
 //Difference between txt file and js file is this only ki javaScript ka jo complier hai jaise Node.js usme inbuilt likha hai syntax ki ye keyword mile to ye karo and so onabort. 
 //console.log() mile toh print karo ya var, let ya const mile toh uska value memory me store karo
 
